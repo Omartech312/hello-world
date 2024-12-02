@@ -4,8 +4,7 @@ int main(void)
 {
   //Prints hello world message and a new line char
     //Funcitons: printf
-  printf("hello world\n");
-
+  printf("Hello world!\n");
 
   //prints program end message
     //Functions: printf
